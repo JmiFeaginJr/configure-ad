@@ -42,7 +42,7 @@ We are in the process of establishing two virtual machines within the Microsoft 
  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To facilitate seamless connectivity between the client and the domain controller, our approach involves utilizing remote desktop functionality along with conducting a ping operation directed towards the private IP address of the domain controller (DC-1). Subsequently, we access the domain controller and proceed to enable ICMPv4 within the local Windows Firewall settings.
 </p>
 <br />
 
