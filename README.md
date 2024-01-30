@@ -51,6 +51,6 @@ To facilitate seamless connectivity between the client and the domain controller
   <img src="https://i.imgur.com/dXnfVOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We initiate a session on DC-1 and proceed to install Active Directory Domain Services, configuring it to establish a new forest. Following this setup, we execute a restart of the virtual machine, culminating in the installation and activation of Active Directory.
 </p>
 <br />
